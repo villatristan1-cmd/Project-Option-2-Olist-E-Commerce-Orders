@@ -7,3 +7,4 @@ nbconvert
 ipykernel
 python-dotenv
 setuptools<81
+duckdb
